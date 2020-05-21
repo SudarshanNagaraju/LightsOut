@@ -3,6 +3,7 @@ The game consists of a 5 by 5 grid of lights. When the game starts, a random num
 
 <br>
 ## Click below link for Live App 
+
 [https://lightsout-reactapp.herokuapp.com/](https://lightsout-reactapp.herokuapp.com/)
 
 
